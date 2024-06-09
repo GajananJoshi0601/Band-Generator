@@ -26,11 +26,26 @@
     <pre><code>nodemon index.js</code></pre>
     
 </ol>
-<h2>Quick overview of UI</h2>
-<section>
-  <img src="image1.jpg" alt="Image 1" width="400" height="341">
-  <img src="image2.jpg" alt="Image 2" width="400" height="341">
-</section>
+<h2 id="overview">Quick Overview of the UI</h2>
+<p>Here are some screenshots showcasing the main features of our Spotify Clone:</p>
+
+<p align="center">
+    <img src="/SS/ss-1.jpg" alt="Home Page" width="400">
+    <br>
+    <em>Home Page</em>
+</p>
+
+<p align="center">
+    <img src="/SS/ss-2.jpg" alt="Generated Name" width="400">
+    <br>
+    <em>Generated Names</em>
+</p>
+
+<p align="center">
+    <img src="/SS/ss-3.jpg" alt="Generated Name" width="400">
+    <br>
+</p>
+
 
 <h2 id="contributing">Contributing</h2>
 <p>Contributions are welcome! Please feel free to submit a Pull Request or open an issue for any bugs or feature requests.</p>
