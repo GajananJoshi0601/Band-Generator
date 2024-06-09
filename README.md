@@ -1,4 +1,4 @@
-<h1>Band-Generator</h1>
+![image](https://github.com/GajananJoshi0601/Band-Generator/assets/97223260/ff320dd8-0dea-48cf-a64b-d0ed7b903d2f)<h1>Band-Generator</h1>
 
 <p>Welcome to the Band-Generator project! This tool helps you generate random band names for your next music project, band, or just for fun.</p>
 
@@ -13,7 +13,7 @@
 <p>To get started with Band-Generator, follow these steps:</p>
 <ol>
     <li>Clone the repository:</li> 
-    <pre><code>git clone https://github.com/yourusername/Band-Generator.git</code></pre>
+    <pre><code>git clone https://github.com/GajananJoshi0601/Band-Generator.git</code></pre>
     <li>Open and Extract It</li>
     <li>Create a Directory or Folder</li>
     <li>Now index.js File creation</li>
